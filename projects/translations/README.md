@@ -9,8 +9,8 @@ Decidimos compartilhar os artigos no [Tableless](http://tableless.com.br) devido
 ## Passo a passo
 
 1. Acesse [esse link](http://tableless.com.br/seja-um-autor/) para saber como funciona o cadastro no Blog.
-2. Deixe nesse [arquivo](/contributors.md) o seu contato.
-3. Coloque nesse [arquivo](/translated.md) os artigos que foram traduzidos (link do Tableless).
+2. Deixe nesse [arquivo](/projects/translations/contributors.md) o seu contato.
+3. Coloque nesse [arquivo](/projects/translations/translated.md) os artigos que foram traduzidos (link do Tableless).
 
 ## Quero sugerir um artigo
 
