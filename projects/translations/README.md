@@ -13,6 +13,8 @@ Decidimos compartilhar os artigos no [Tableless](http://tableless.com.br) devido
 3. Deixe uma [issue](https://github.com/femug-abc/femug-abc/issues) informando o artigo que estiver traduzindo.
 4. Coloque nesse [arquivo](/projects/translations/translated.md) os artigos que foram traduzidos (link do Tableless).
 
+***OBS:*** *Coloque seu artigo na categoria "tradução" no Tableless.*
+
 ## Quero sugerir um artigo
 
 Se você deseja sugerir uma tradução de artigo, basta abrir uma [issue](https://github.com/femug-abc/femug-abc/issues) nesse repositório.
