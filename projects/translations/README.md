@@ -9,9 +9,11 @@ Decidimos compartilhar os artigos no [Tableless](http://tableless.com.br) devido
 ## Passo a passo
 
 1. Acesse [esse link](http://tableless.com.br/seja-um-autor/) para saber como funciona o cadastro no Blog.
-2. Deixe nesse [arquivo](/projects/translations/contributors.md) o seu contato.
-3. Deixe uma [issue](https://github.com/femug-abc/femug-abc/issues) informando o artigo que estiver traduzindo.
-4. Coloque nesse [arquivo](/projects/translations/translated.md) os artigos que foram traduzidos (link do Tableless).
+1. Deixe nesse [arquivo](/projects/translations/contributors.md) o seu contato.
+1. Abra uma [issue](https://github.com/femug-abc/femug-abc/issues) informando o artigo que estiver traduzindo.
+1. Coloque nesse [arquivo](/projects/translations/translated.md) os artigos que foram traduzidos (link do Tableless).
+
+Enquanto estiver traduzindo, basta referenciar algum dos organizadores para que adicione a label `working`. Assim que estiver completo fechamos a issue e deixamos somente a label `translation`.
 
 ***OBS:*** *Coloque seu artigo na categoria "tradução" no Tableless.*
 
