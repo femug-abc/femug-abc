@@ -11,3 +11,5 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 *Para maiores informações da uma olhadinha [aqui](https://github.com/femug/femug "FEMUG BR")*
 
 Para contribuir de alguma maneira ou participar acesse [esse link](http://abc.femug.com/ "FEMUG ABC")
+
+Se curtir, entra no nosso [Team no Slack](https://github.com/femug-abc/slack), a maioria das interações do Grupo acontecem por lá! ;D
