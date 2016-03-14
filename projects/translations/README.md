@@ -6,6 +6,8 @@
 
 Decidimos compartilhar os artigos no [Tableless](http://tableless.com.br) devido ao Blog ser parte da comunidade e já possuir uma boa quantidade de leitores (inclusive nós mesmos).
 
+Mas você também pode compartilhar no seu próprio Blog e postar aqui. ;)
+
 ## Passo a passo
 
 1. Acesse [esse link](http://tableless.com.br/seja-um-autor/) para saber como funciona o cadastro no Blog.
